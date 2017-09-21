@@ -1,4 +1,4 @@
-# CommodityPrice
+# Commodity Price
 In this project, I want to analyze the Gold and Silver prices, and calculate the mean and the variance for a specific period of time. For doing so I have fetched the data from the following links:
 
 https://www.investing.com/commodities/silver-historical-data
@@ -40,3 +40,5 @@ to replace the driver path for the phantomJs to our local machines path.
    2.2 Ending Date (YYYY-MM-DD)
 
    2.3 Commodity ("gold" or "silver)
+   
+(e.g. `python getCommodityPrice.py 2017-08-25 2017-09-20 gold`)
