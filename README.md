@@ -10,15 +10,15 @@ https://www.investing.com/commodities/gold-historical-data
 In order to run the scripts, you would need the following libraries and programming languages. By clicking on each item,
 you can find some helpful tips about installing each libraries, especialy if you use Anaconda.
 
-..* Python 3.6.1 or above
+.. * Python 3.6.1 or above
 
-..* [Numpy](https://anaconda.org/anaconda/numpy)
+.. * [Numpy](https://anaconda.org/anaconda/numpy)
 
-..* [Selenium](https://stackoverflow.com/questions/13287490/is-there-a-way-to-use-phantomjs-in-python)
+.. * [Selenium](https://stackoverflow.com/questions/13287490/is-there-a-way-to-use-phantomjs-in-python)
 
-..* [BeautifulSoup](https://anaconda.org/anaconda/beautifulsoup4)
+.. * [BeautifulSoup](https://anaconda.org/anaconda/beautifulsoup4)
 
-..* [PhantomJs](https://stackoverflow.com/questions/13287490/is-there-a-way-to-use-phantomjs-in-python)
+.. * [PhantomJs](https://stackoverflow.com/questions/13287490/is-there-a-way-to-use-phantomjs-in-python)
 
 
 # Note:
@@ -35,8 +35,8 @@ to replace the driver path for the phantomJs to our local machines path.
 
 2. run the `getCommodityPrice` in your command line following by three arguments.
 
-... 2.1 Startign Date (YYYY-MM-DD)
+...2.1 Startign Date (YYYY-MM-DD)
 
-... 2.2 Ending Date (YYYY-MM-DD)
+...2.2 Ending Date (YYYY-MM-DD)
 
-... 2.3 Commodity ("gold" or "silver)
+...2.3 Commodity ("gold" or "silver)
