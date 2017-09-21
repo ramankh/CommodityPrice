@@ -10,7 +10,7 @@ https://www.investing.com/commodities/gold-historical-data
 In order to run the scripts, you would need the following libraries and programming languages. By clicking on each item,
 you can find some helpful tips about installing each libraries, especialy if you use Anaconda.
 
-.. * Python 3.6.1 or above
+  * Python 3.6.1 or above
 
 .. * [Numpy](https://anaconda.org/anaconda/numpy)
 
